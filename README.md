@@ -2,9 +2,11 @@
 
 
 ## AIM: 
+
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
  
 ### COMPONENTS REQUIRED:
+
 1. FSR  (force sensitive resistor)
 2. 1 KΩ resistor 
 3. Arduino Uno 
@@ -96,7 +98,7 @@ void loop()
 
 TABLE -02 standard deviation table
  
-
+![image](https://user-images.githubusercontent.com/114572171/203595752-79c4797d-8b3f-4947-a978-9ace5c8eb07b.png)
 
 ### Population Standard Deviation
 The population standard deviation, the standard definition of σ, is used when an entire population can be measured, and is the square root of the variance of a given data set. In cases where every member of a population can be sampled, the following equation can be used to find the standard deviation of the entire population:
@@ -117,4 +119,5 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 
 ### RESULTS :
+
 Arduino uno is interfaced with FSR and output values are indicated on a graph.
