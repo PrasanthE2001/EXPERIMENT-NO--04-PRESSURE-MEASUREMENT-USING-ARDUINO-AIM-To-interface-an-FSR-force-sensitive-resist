@@ -69,9 +69,8 @@ That is, the voltage is proportional to the inverse of the FSR resistance.
 
 
 ### PROGRAM 
- Roll no    : 22007885
+ Roll no    : 212221233002
  Name       : PRASANTH E
- Department : Department :Artificial Intelligence and Data Science
  
  ```
  int sensorvalue=A0;
